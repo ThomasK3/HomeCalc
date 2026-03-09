@@ -1,1 +1,3 @@
-node_modules/\nbuild/\n.DS_Store
+node_modules/
+build/
+.DS_Store
